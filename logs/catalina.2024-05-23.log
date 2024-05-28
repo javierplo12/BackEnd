@@ -1,0 +1,37 @@
+23-May-2024 23:55:53.708 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/8.5.100
+23-May-2024 23:55:53.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 19 2024 13:54:42 UTC
+23-May-2024 23:55:53.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     8.5.100.0
+23-May-2024 23:55:53.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+23-May-2024 23:55:53.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+23-May-2024 23:55:53.711 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+23-May-2024 23:55:53.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Users\javie\.jdks\openjdk-22.0.1
+23-May-2024 23:55:53.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       22.0.1+8-16
+23-May-2024 23:55:53.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+23-May-2024 23:55:53.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\javie\OneDrive\Escritorio\Buger_Town
+23-May-2024 23:55:53.712 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\javie\OneDrive\Escritorio\apache-tomcat-8.5.100
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:52212,suspend=y,server=n
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\javie\OneDrive\Escritorio\apache-tomcat-8.5.100
+23-May-2024 23:55:53.713 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\javie\OneDrive\Escritorio\Buger_Town
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\javie\OneDrive\Escritorio\Buger_Town\temp
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\logging.properties
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -javaagent:C:\Users\javie\AppData\Local\JetBrains\IdeaIC2023.3\captureAgent\debugger-agent.jar
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dfile.encoding=UTF-8
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.stdout.encoding=UTF-8
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.stderr.encoding=UTF-8
+23-May-2024 23:55:53.714 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Users\javie\.jdks\openjdk-22.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Users\javie\AppData\Local\Microsoft\WindowsApps;C:\Users\javie\AppData\Local\GitHubDesktop\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\javie\AppData\Local\Microsoft\WindowsApps;C:\Users\javie\AppData\Local\GitHubDesktop\bin;.]
+23-May-2024 23:55:53.773 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+23-May-2024 23:55:53.805 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 815 ms
+23-May-2024 23:55:53.864 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+23-May-2024 23:55:53.865 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.100]
+23-May-2024 23:55:53.880 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\Catalina\localhost\Buger_Town.xml]
+23-May-2024 23:55:56.232 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+23-May-2024 23:55:56.337 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\Catalina\localhost\Buger_Town.xml] has finished in [2.454] ms
+23-May-2024 23:55:56.341 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+23-May-2024 23:55:56.370 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2563 ms

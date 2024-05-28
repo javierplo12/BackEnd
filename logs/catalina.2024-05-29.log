@@ -1,0 +1,61 @@
+29-May-2024 00:54:45.833 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/8.5.100
+29-May-2024 00:54:45.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 19 2024 13:54:42 UTC
+29-May-2024 00:54:45.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     8.5.100.0
+29-May-2024 00:54:45.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+29-May-2024 00:54:45.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+29-May-2024 00:54:45.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+29-May-2024 00:54:45.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Users\javie\.jdks\openjdk-22.0.1
+29-May-2024 00:54:45.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       22.0.1+8-16
+29-May-2024 00:54:45.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+29-May-2024 00:54:45.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\javie\OneDrive\Escritorio\Buger_Town
+29-May-2024 00:54:45.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\javie\OneDrive\Escritorio\apache-tomcat-8.5.100
+29-May-2024 00:54:45.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+29-May-2024 00:54:45.844 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:51956,suspend=y,server=n
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\javie\OneDrive\Escritorio\apache-tomcat-8.5.100
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\javie\OneDrive\Escritorio\Buger_Town
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\javie\OneDrive\Escritorio\Buger_Town\temp
+29-May-2024 00:54:45.845 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\logging.properties
+29-May-2024 00:54:45.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-May-2024 00:54:45.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -javaagent:C:\Users\javie\AppData\Local\JetBrains\IdeaIC2023.3\captureAgent\debugger-agent.jar
+29-May-2024 00:54:45.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dfile.encoding=UTF-8
+29-May-2024 00:54:45.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.stdout.encoding=UTF-8
+29-May-2024 00:54:45.846 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dsun.stderr.encoding=UTF-8
+29-May-2024 00:54:45.846 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Users\javie\.jdks\openjdk-22.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft VS Code\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Users\javie\AppData\Local\Microsoft\WindowsApps;C:\Users\javie\AppData\Local\GitHubDesktop\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\javie\AppData\Local\Microsoft\WindowsApps;C:\Users\javie\AppData\Local\GitHubDesktop\bin;.]
+29-May-2024 00:54:46.000 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+29-May-2024 00:54:46.037 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1305 ms
+29-May-2024 00:54:46.140 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+29-May-2024 00:54:46.140 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.100]
+29-May-2024 00:54:46.169 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\Catalina\localhost\Buger_Town.xml]
+29-May-2024 00:54:48.385 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+29-May-2024 00:54:48.455 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\Catalina\localhost\Buger_Town.xml] has finished in [2.282] ms
+29-May-2024 00:54:48.458 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-May-2024 00:54:48.485 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 2446 ms
+29-May-2024 00:59:08.743 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/C:/Users/javie/OneDrive/Escritorio/Buger_Town/conf/tomcat-users.xml]
+29-May-2024 00:59:08.744 SEVERE [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.open El usuario de base de datos especificado [conf/tomcat-users.xml] no pudo ser encontrado
+29-May-2024 00:59:08.745 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.users.MemoryUserDatabase.open Failed to close [conf/tomcat-users.xml]
+	java.io.FileNotFoundException: C:\Users\javie\OneDrive\Escritorio\Buger_Town\conf\tomcat-users.xml (El sistema no puede encontrar la ruta especificada)
+		at java.base/java.io.FileInputStream.open0(Native Method)
+		at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+		at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+		at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+		at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:84)
+		at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:186)
+		at org.apache.catalina.users.MemoryUserDatabase.open(MemoryUserDatabase.java:470)
+		at org.apache.catalina.users.MemoryUserDatabase.backgroundProcess(MemoryUserDatabase.java:759)
+		at org.apache.catalina.realm.UserDatabaseRealm.backgroundProcess(UserDatabaseRealm.java:136)
+		at org.apache.catalina.realm.CombinedRealm.backgroundProcess(CombinedRealm.java:254)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1094)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1333)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1305)
+		at java.base/java.lang.Thread.run(Thread.java:1570)
+29-May-2024 00:59:09.252 INFO [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/Buger_Town]
+29-May-2024 00:59:09.494 WARNING [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [Buger_Town] registró el conductor JDBC [oracle.jdbc.OracleDriver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+29-May-2024 00:59:10.143 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+29-May-2024 00:59:10.148 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+29-May-2024 00:59:10.150 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+29-May-2024 00:59:10.159 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
